@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97c83442.css",
+    "main.js": "/static/js/main.fdba4291.js",
+    "static/js/787.22edae46.chunk.js": "/static/js/787.22edae46.chunk.js",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.4211496d0e075ffe7c2f.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.c5eb70982e90502d0d01.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.090bd619384bb8d4c289.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.300a4da54f1e6258b6f7.ttf",
+    "static/media/Poppins-Black.ttf": "/static/media/Poppins-Black.c78fe16aec75b2fc38d0.ttf",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.2699aefade440f0e338f.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.160d7a6ac26376e5e977.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.35eab922fdbe4b5324d4.ttf",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.67102731a93fd827b382.ttf",
+    "static/media/Cairo-Regular.ttf": "/static/media/Cairo-Regular.318c781c17841e4a9f45.ttf",
+    "static/media/Parisienne-Regular.ttf": "/static/media/Parisienne-Regular.b3cc89d14478b05776c0.ttf",
+    "index.html": "/index.html",
+    "main.97c83442.css.map": "/static/css/main.97c83442.css.map",
+    "main.fdba4291.js.map": "/static/js/main.fdba4291.js.map",
+    "787.22edae46.chunk.js.map": "/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c83442.css",
+    "static/js/main.fdba4291.js"
+  ]
+}
